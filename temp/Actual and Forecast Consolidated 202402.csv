@@ -1,0 +1,769 @@
+Product,UOM,Category,Region,Id,Period,Value,Color,Comments,View,Reported_period
+Coffee,Pound,Beverages,Africa,1,2021-01-01,1.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-02-01,1.45,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-03-01,1.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-04-01,1.55,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-05-01,1.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-06-01,1.7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-07-01,1.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-08-01,2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-09-01,2.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-10-01,2.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-11-01,2.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2021-12-01,2.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-01-01,3.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-02-01,3.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-03-01,3.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-04-01,4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-05-01,4.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-06-01,4.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-07-01,4.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-08-01,5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-09-01,5.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-10-01,5.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-11-01,6.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2022-12-01,6.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-01-01,6.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-02-01,7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-03-01,7.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-04-01,7.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-05-01,8.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-06-01,8.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-07-01,9,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-08-01,9.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-09-01,9.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-10-01,10.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-11-01,10.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2023-12-01,11,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-01-01,11.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-02-01,10.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-03-01,12.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-04-01,12.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-05-01,13,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-06-01,13.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-07-01,13.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-08-01,14.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-09-01,14.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-10-01,15,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-11-01,15.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Africa,1,2024-12-01,15.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-01-01,1.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-02-01,1.85,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-03-01,2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-04-01,2.1,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-05-01,2.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-06-01,2.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-07-01,2.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-08-01,2.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-09-01,3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-10-01,3.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-11-01,3.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2021-12-01,3.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-01-01,4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-02-01,4.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-03-01,4.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-04-01,4.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-05-01,5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-06-01,5.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-07-01,5.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-08-01,6.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-09-01,6.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-10-01,7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-11-01,7.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2022-12-01,7.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-01-01,8.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-02-01,8.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-03-01,9,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-04-01,9.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-05-01,9.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-06-01,10.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-07-01,10.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-08-01,11,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-09-01,11.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-10-01,11.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-11-01,12.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2023-12-01,12.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-01-01,13,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-02-01,11.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-03-01,13.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-04-01,14.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-05-01,14.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-06-01,15,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-07-01,15.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-08-01,15.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-09-01,16.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-10-01,16.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-11-01,17,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Asia,2,2024-12-01,17.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-01-01,1.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-02-01,1.55,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-03-01,1.65,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-04-01,1.7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-05-01,1.75,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-06-01,1.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-07-01,1.85,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-08-01,2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-09-01,2.1,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-10-01,2.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-11-01,2.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2021-12-01,2.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-01-01,2.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-02-01,3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-03-01,3.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-04-01,3.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-05-01,3.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-06-01,3.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-07-01,4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-08-01,4.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-09-01,4.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-10-01,4.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-11-01,4.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2022-12-01,5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-01-01,5.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-02-01,5.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-03-01,5.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-04-01,5.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-05-01,6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-06-01,6.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-07-01,6.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-08-01,6.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-09-01,7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-10-01,7.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-11-01,7.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2023-12-01,8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-01-01,8.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-02-01,7.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-03-01,8.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-04-01,8.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-05-01,9,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-06-01,9.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-07-01,9.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-08-01,9.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-09-01,10,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-10-01,10.2,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-11-01,10.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,Europe,3,2024-12-01,10.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2021-01-01,1.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-02-01,1.25,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-03-01,1.3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-04-01,1.35,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-05-01,1.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-06-01,1.45,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-07-01,1.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-08-01,1.55,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-09-01,1.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-10-01,1.65,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-11-01,1.7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2021-12-01,1.75,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-01-01,1.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-02-01,1.85,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-03-01,1.9,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-04-01,2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-05-01,2.1,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-06-01,2.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-07-01,2.3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-08-01,2.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-09-01,2.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-10-01,2.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-11-01,2.7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2022-12-01,2.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-01-01,2.9,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-02-01,3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-03-01,3.1,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-04-01,3.2,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-05-01,3.3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-06-01,3.4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-07-01,3.5,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-08-01,3.6,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-09-01,3.7,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-10-01,3.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-11-01,3.9,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2023-12-01,4,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2024-01-01,4.1,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2024-02-01,3.8,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2024-03-01,4.3,00000000,,Actual,2024-02
+Coffee,Pound,Beverages,North America,4,2024-04-01,4.4,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-05-01,4.5,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-06-01,4.6,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-07-01,4.7,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-08-01,4.8,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-09-01,4.9,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-10-01,5,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-11-01,5.1,9,,Forecast,2024-02
+Coffee,Pound,Beverages,North America,4,2024-12-01,5.2,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-01-01,7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-02-01,7.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-03-01,7.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-04-01,7.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-05-01,7.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-06-01,7.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-07-01,7.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-08-01,8.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-09-01,8.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-10-01,8.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-11-01,8.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2021-12-01,8.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-01-01,9.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-02-01,9.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-03-01,9.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-04-01,9.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-05-01,9.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-06-01,10.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-07-01,10.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-08-01,10.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-09-01,10.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-10-01,10.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-11-01,11.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2022-12-01,11.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-01-01,11.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-02-01,11.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-03-01,11.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-04-01,12.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-05-01,12.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-06-01,12.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-07-01,12.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-08-01,12.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-09-01,13.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-10-01,13.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-11-01,13.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2023-12-01,13.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-01-01,13.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-02-01,13.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-03-01,14.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-04-01,14.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-05-01,14.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-06-01,14.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-07-01,15.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-08-01,15.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-09-01,15.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-10-01,15.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-11-01,15.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Africa,5,2024-12-01,16.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-01-01,7.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-02-01,7.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-03-01,7.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-04-01,7.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-05-01,8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-06-01,8.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-07-01,8.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-08-01,8.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-09-01,8.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-10-01,8.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-11-01,9.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2021-12-01,9.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-01-01,9.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-02-01,9.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-03-01,9.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-04-01,10.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-05-01,10.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-06-01,10.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-07-01,10.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-08-01,10.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-09-01,11.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-10-01,11.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-11-01,11.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2022-12-01,11.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-01-01,11.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-02-01,12.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-03-01,12.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-04-01,12.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-05-01,12.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-06-01,12.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-07-01,13.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-08-01,13.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-09-01,13.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-10-01,13.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-11-01,13.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2023-12-01,14.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-01-01,14.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-02-01,13.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-03-01,14.7,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-04-01,14.9,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-05-01,15.1,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-06-01,15.3,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-07-01,15.5,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-08-01,15.7,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-09-01,15.9,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-10-01,16.1,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-11-01,16.3,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Asia,6,2024-12-01,16.5,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-01-01,6.3,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-02-01,6.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-03-01,6.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-04-01,6.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-05-01,7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-06-01,7.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-07-01,7.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-08-01,7.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-09-01,7.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-10-01,8.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-11-01,8.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2021-12-01,8.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-01-01,8.7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-02-01,8.9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-03-01,9.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-04-01,9.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-05-01,9.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-06-01,9.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-07-01,10,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-08-01,10.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-09-01,10.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-10-01,10.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-11-01,10.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2022-12-01,11,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-01-01,11.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-02-01,11.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-03-01,11.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-04-01,11.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-05-01,12,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-06-01,12.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-07-01,12.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-08-01,12.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-09-01,12.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-10-01,13,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-11-01,13.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2023-12-01,13.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-01-01,13.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-02-01,13,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-03-01,14,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-04-01,14.2,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-05-01,14.4,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-06-01,14.6,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-07-01,14.8,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-08-01,15,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-09-01,15.2,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-10-01,15.4,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-11-01,15.6,9,,Forecast,2024-02
+Corn,Bushel,Staple food,Europe,7,2024-12-01,15.8,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2021-01-01,5.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-02-01,6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-03-01,6.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-04-01,6.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-05-01,6.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-06-01,6.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-07-01,7,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-08-01,7.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-09-01,7.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-10-01,7.5,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-11-01,7.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2021-12-01,8.1,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-01-01,8.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-02-01,8.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-03-01,8.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-04-01,8.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-05-01,9,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-06-01,9.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-07-01,9.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-08-01,9.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-09-01,9.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-10-01,10,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-11-01,10.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2022-12-01,10.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-01-01,10.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-02-01,10.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-03-01,11,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-04-01,11.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-05-01,11.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-06-01,11.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-07-01,11.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-08-01,12,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-09-01,12.2,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-10-01,12.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-11-01,12.6,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2023-12-01,12.8,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2024-01-01,13,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2024-02-01,12.4,00000000,,Actual,2024-02
+Corn,Bushel,Staple food,North America,8,2024-03-01,13.4,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-04-01,13.6,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-05-01,13.8,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-06-01,14,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-07-01,14.2,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-08-01,14.4,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-09-01,14.6,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-10-01,14.8,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-11-01,15,9,,Forecast,2024-02
+Corn,Bushel,Staple food,North America,8,2024-12-01,15.2,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-01-01,1.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-02-01,1.15,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-03-01,1.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-04-01,1.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-05-01,1.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-06-01,1.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-07-01,1.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-08-01,1.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-09-01,1.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-10-01,1.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-11-01,2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2021-12-01,2.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-01-01,2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-02-01,2.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-03-01,2.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-04-01,2.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-05-01,2.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-06-01,3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-07-01,3.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-08-01,3.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-09-01,3.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-10-01,3.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-11-01,4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2022-12-01,4.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-01-01,4.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-02-01,4.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-03-01,4.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-04-01,5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-05-01,5.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-06-01,5.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-07-01,5.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-08-01,5.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-09-01,6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-10-01,6.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-11-01,6.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2023-12-01,6.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-01-01,6.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-02-01,6.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-03-01,7.2,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-04-01,7.4,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-05-01,7.6,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-06-01,7.8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-07-01,8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-08-01,8.2,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-09-01,8.4,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-10-01,8.6,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-11-01,8.8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Africa,9,2024-12-01,9,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-01-01,1.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-02-01,1.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-03-01,1.35,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-04-01,1.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-05-01,1.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-06-01,1.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-07-01,1.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-08-01,1.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-09-01,1.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-10-01,2.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-11-01,2.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2021-12-01,2.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-01-01,2.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-02-01,2.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-03-01,3.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-04-01,3.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-05-01,3.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-06-01,3.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-07-01,4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-08-01,4.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-09-01,4.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-10-01,4.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-11-01,5.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2022-12-01,5.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-01-01,5.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-02-01,6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-03-01,6.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-04-01,6.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-05-01,6.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-06-01,7.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-07-01,7.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-08-01,7.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-09-01,8.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-10-01,8.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-11-01,8.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2023-12-01,9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-01-01,9.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-02-01,8.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-03-01,9.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-04-01,10.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-05-01,10.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-06-01,10.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-07-01,11.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-08-01,11.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-09-01,11.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-10-01,12,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-11-01,12.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Asia,10,2024-12-01,12.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-01-01,1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-02-01,1.05,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-03-01,1.15,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-04-01,1.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-05-01,1.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-06-01,1.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-07-01,1.35,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-08-01,1.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-09-01,1.45,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-10-01,1.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-11-01,1.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2021-12-01,1.7,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-01-01,1.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-02-01,1.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-03-01,2.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-04-01,2.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-05-01,2.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-06-01,2.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-07-01,2.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-08-01,3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-09-01,3.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-10-01,3.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-11-01,3.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2022-12-01,3.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-01-01,4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-02-01,4.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-03-01,4.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-04-01,4.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-05-01,4.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-06-01,5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-07-01,5.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-08-01,5.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-09-01,5.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-10-01,5.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-11-01,6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2023-12-01,6.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-01-01,6.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-02-01,5.8,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-03-01,6.8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-04-01,7,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-05-01,7.2,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-06-01,7.4,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-07-01,7.6,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-08-01,7.8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-09-01,8,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-10-01,8.2,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-11-01,8.4,9,,Forecast,2024-02
+Cotton,Pound,Textiles,Europe,11,2024-12-01,8.6,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2021-01-01,0.9,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-02-01,0.95,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-03-01,1.05,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-04-01,1.1,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-05-01,1.15,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-06-01,1.2,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-07-01,1.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-08-01,1.3,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-09-01,1.35,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-10-01,1.4,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-11-01,1.45,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2021-12-01,1.5,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-01-01,1.55,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-02-01,1.6,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-03-01,1.65,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-04-01,1.75,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-05-01,1.85,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-06-01,1.95,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-07-01,2.05,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-08-01,2.15,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-09-01,2.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-10-01,2.35,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-11-01,2.45,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2022-12-01,2.55,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-01-01,2.65,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-02-01,2.75,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-03-01,2.85,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-04-01,2.95,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-05-01,3.05,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-06-01,3.15,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-07-01,3.25,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-08-01,3.35,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-09-01,3.45,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-10-01,3.55,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-11-01,3.65,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2023-12-01,3.75,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2024-01-01,3.85,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2024-02-01,3.55,00000000,,Actual,2024-02
+Cotton,Pound,Textiles,North America,12,2024-03-01,4.05,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-04-01,4.15,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-05-01,4.25,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-06-01,4.35,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-07-01,4.45,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-08-01,4.55,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-09-01,4.65,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-10-01,4.75,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-11-01,4.85,9,,Forecast,2024-02
+Cotton,Pound,Textiles,North America,12,2024-12-01,4.95,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-01-01,7.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-02-01,7.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-03-01,8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-04-01,8.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-05-01,8.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-06-01,8.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-07-01,8.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-08-01,8.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-09-01,9.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-10-01,9.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-11-01,9.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2021-12-01,9.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-01-01,9.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-02-01,10.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-03-01,10.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-04-01,10.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-05-01,10.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-06-01,10.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-07-01,11.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-08-01,11.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-09-01,11.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-10-01,11.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-11-01,11.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2022-12-01,12.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-01-01,12.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-02-01,12.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-03-01,12.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-04-01,12.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-05-01,13.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-06-01,13.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-07-01,13.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-08-01,13.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-09-01,13.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-10-01,14.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-11-01,14.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2023-12-01,14.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-01-01,14.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-02-01,14.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-03-01,15.1,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-04-01,15.3,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-05-01,15.5,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-06-01,15.7,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-07-01,15.9,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-08-01,16.1,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-09-01,16.3,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-10-01,16.5,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-11-01,16.7,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Africa,13,2024-12-01,16.9,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-01-01,8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-02-01,8.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-03-01,8.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-04-01,8.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-05-01,8.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-06-01,8.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-07-01,8.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-08-01,9.1,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-09-01,9.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-10-01,9.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-11-01,9.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2021-12-01,10,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-01-01,10.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-02-01,10.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-03-01,10.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-04-01,10.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-05-01,11,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-06-01,11.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-07-01,11.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-08-01,11.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-09-01,11.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-10-01,12,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-11-01,12.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2022-12-01,12.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-01-01,12.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-02-01,12.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-03-01,13,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-04-01,13.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-05-01,13.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-06-01,13.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-07-01,13.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-08-01,14,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-09-01,14.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-10-01,14.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-11-01,14.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2023-12-01,14.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-01-01,15,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-02-01,14.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-03-01,15.4,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-04-01,15.6,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-05-01,15.8,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-06-01,16,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-07-01,16.2,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-08-01,16.4,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-09-01,16.6,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-10-01,16.8,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-11-01,17,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Asia,14,2024-12-01,17.2,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-01-01,7.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-02-01,7.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-03-01,7.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-04-01,7.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-05-01,7.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-06-01,8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-07-01,8.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-08-01,8.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-09-01,8.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-10-01,8.9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-11-01,9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2021-12-01,9.3,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-01-01,9.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-02-01,9.7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-03-01,10,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-04-01,10.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-05-01,10.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-06-01,10.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-07-01,10.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-08-01,11,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-09-01,11.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-10-01,11.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-11-01,11.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2022-12-01,11.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-01-01,12,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-02-01,12.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-03-01,12.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-04-01,12.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-05-01,12.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-06-01,13,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-07-01,13.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-08-01,13.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-09-01,13.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-10-01,13.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-11-01,14,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2023-12-01,14.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-01-01,14.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-02-01,13.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-03-01,14.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-04-01,15,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-05-01,15.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-06-01,15.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-07-01,15.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-08-01,15.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-09-01,16,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-10-01,16.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-11-01,16.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,Europe,15,2024-12-01,16.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-01-01,6.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-02-01,6.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-03-01,6.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-04-01,7,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-05-01,7.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-06-01,7.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-07-01,7.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-08-01,7.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-09-01,8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-10-01,8.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-11-01,8.5,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2021-12-01,8.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-01-01,9,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-02-01,9.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-03-01,9.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-04-01,9.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-05-01,9.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-06-01,10,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-07-01,10.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-08-01,10.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-09-01,10.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-10-01,10.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-11-01,11,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2022-12-01,11.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-01-01,11.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-02-01,11.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-03-01,11.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-04-01,12,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-05-01,12.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-06-01,12.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-07-01,12.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-08-01,12.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-09-01,13,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-10-01,13.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-11-01,13.4,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2023-12-01,13.6,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-01-01,13.8,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-02-01,13.2,00000000,,Actual,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-03-01,14.2,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-04-01,14.4,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-05-01,14.6,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-06-01,14.8,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-07-01,15,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-08-01,15.2,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-09-01,15.4,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-10-01,15.6,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-11-01,15.8,9,,Forecast,2024-02
+Wheat,Bushel,Staple food,North America,16,2024-12-01,16,9,,Forecast,2024-02

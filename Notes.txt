@@ -1,0 +1,25 @@
+
+#Hyper API Samples
+https://github.com/tableau/hyper-api-samples/tree/main/Tableau-Supported/Python
+
+#Hyper API Doc
+https://tableau.github.io/hyper-db/docs/
+https://tableau.github.io/hyper-db/docs/guides/hyper_file/publish
+https://tableau.github.io/hyper-db/lang_docs/py/tableauhyperapi.html#tableauhyperapi.SqlType
+https://tableau.github.io/hyper-db/docs/hyper-api/
+
+#PanTab Community Library
+https://pantab.readthedocs.io/en/latest/
+https://tableau.github.io/hyper-db/docs/guides/pandas_integration
+https://pantab.readthedocs.io/en/latest/examples.html#writing-to-a-hyper-extract
+https://github.com/innobi/pantab/tree/main?tab=readme-ov-file
+
+#REST API Tableau Server Client Doc
+https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm
+https://tableau.github.io/server-client-python/docs/
+https://github.com/tableau/hyper-api-samples/blob/main/Community-Supported/publish-hyper/publish-hyper-file.py
+
+
+#Sandbox Site
+https://10ax.online.tableau.com/#/site/cristiansaavedradev226290
+https://10ax.online.tableau.com/#/site/cristiansaavedradev226290/user/TABID_WITH_MFA/cristian.saavedra.desmoineaux@gmail.com/settings
